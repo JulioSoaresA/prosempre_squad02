@@ -1,0 +1,6 @@
+asgiref
+Django
+pillow
+python-decouple
+sqlparse
+typing_extensions
